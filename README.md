@@ -4,7 +4,7 @@ An expense tracking application with data visualization - developed using React,
 
 ![MERN Expense Tracker](https://drive.google.com/uc?id=1mgtzTDtY0ssOMj797-FF5pb8EGFTgylT "MERN Expense Tracker")
 
-![MERN Expense Tracker Graphs](https://mernbook.s3.amazonaws.com/git+/graphs.png "MERN Expense Tracker Graphs")
+![MERN Expense Tracker Graphs](https://drive.google.com/uc?id=1A-tEhEcigAfPf48r9geXCe3J_g3q_HHW "MERN Expense Tracker Graphs")
 <!-- ### [Live Demo](http://skeleton.mernbook.com/ "MERN Skeleton") -->
 
 #### What you need to run this code
